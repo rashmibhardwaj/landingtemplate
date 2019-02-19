@@ -1,0 +1,29 @@
+.App {
+  font-family: poppins;
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.content {
+  text-align: left;
+  padding: 20px;
+  display: flex;
+  background: #eee;
+  align-items: center;
+  justify-content: space-around;
+}
+.footer {
+  background: #000;
+  color: #fff;
+  padding: 10px;
+}
+.formInner {
+  border: 0px;
+}
+.formInner label input {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0px;
+}

@@ -1,2 +1,0 @@
-# landingtemplate
-Created with CodeSandbox
